@@ -1,1 +1,1 @@
-# callCenterDataset
+#  Analysed data from excel for a call center on the number of calls answered and abandoned, speed of answer, length of calls, overall customer satisfaction.
